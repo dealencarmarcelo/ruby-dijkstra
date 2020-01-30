@@ -60,4 +60,5 @@ def print_values(current_node, target_node, cost, adjacent)
     k -= 1
     print "#{values[k]}"
     puts "\n\n\n"
+    
 end
